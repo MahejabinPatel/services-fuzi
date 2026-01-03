@@ -1,2 +1,2 @@
-# origin-master_fuziservices
-master_fuziservices
+# _fuziservices
+Repository of fuzi services
